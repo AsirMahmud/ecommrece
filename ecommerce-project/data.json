@@ -1,0 +1,179 @@
+[
+  {
+    "Id": 1,
+    "Photo": "https://example.com/fashion_item1.jpg",
+    "Name": "Women's Summer Dress",
+    "Price": 29.99,
+    "Rating": 4.5,
+    "Popularity": 92,
+    "Category": "Dresses",
+    "Gender": "Female",
+    "Color": "Blue"
+  },
+  {
+    "Id": 2,
+    "Photo": "https://example.com/fashion_item2.jpg",
+    "Name": "Men's Casual Shirt",
+    "Price": 39.99,
+    "Rating": 4.2,
+    "Popularity": 85,
+    "Category": "Shirts",
+    "Gender": "Male",
+    "Color": "White"
+  },
+  {
+    "Id": 3,
+    "Photo": "https://example.com/fashion_item3.jpg",
+    "Name": "Women's Handbag",
+    "Price": 49.99,
+    "Rating": 4.8,
+    "Popularity": 97,
+    "Category": "Accessories",
+    "Gender": "Female",
+    "Color": "Black"
+  },
+  {
+    "Id": 4,
+    "Photo": "https://example.com/fashion_item4.jpg",
+    "Name": "Men's Leather Jacket",
+    "Price": 89.99,
+    "Rating": 4.7,
+    "Popularity": 88,
+    "Category": "Jackets",
+    "Gender": "Male",
+    "Color": "Brown"
+  },
+  {
+    "Id": 5,
+    "Photo": "https://example.com/fashion_item5.jpg",
+    "Name": "Women's High Heels",
+    "Price": 59.99,
+    "Rating": 4.6,
+    "Popularity": 90,
+    "Category": "Shoes",
+    "Gender": "Female",
+    "Color": "Red"
+  },
+  {
+    "Id": 6,
+    "Photo": "https://example.com/fashion_item6.jpg",
+    "Name": "Men's Slim Fit Jeans",
+    "Price": 44.99,
+    "Rating": 4.4,
+    "Popularity": 86,
+    "Category": "Jeans",
+    "Gender": "Male",
+    "Color": "Black"
+  },
+  {
+    "Id": 7,
+    "Photo": "https://example.com/fashion_item7.jpg",
+    "Name": "Women's Sweater",
+    "Price": 34.99,
+    "Rating": 4.3,
+    "Popularity": 78,
+    "Category": "Sweaters",
+    "Gender": "Female",
+    "Color": "Gray"
+  },
+  {
+    "Id": 8,
+    "Photo": "https://example.com/fashion_item8.jpg",
+    "Name": "Men's Formal Shoes",
+    "Price": 69.99,
+    "Rating": 4.7,
+    "Popularity": 89,
+    "Category": "Shoes",
+    "Gender": "Male",
+    "Color": "Black"
+  },
+  {
+    "Id": 9,
+    "Photo": "https://example.com/fashion_item9.jpg",
+    "Name": "Women's Leather Jacket",
+    "Price": 79.99,
+    "Rating": 4.6,
+    "Popularity": 88,
+    "Category": "Jackets",
+    "Gender": "Female",
+    "Color": "Brown"
+  },
+  {
+    "Id": 10,
+    "Photo": "https://example.com/fashion_item10.jpg",
+    "Name": "Men's Formal Suit",
+    "Price": 129.99,
+    "Rating": 4.9,
+    "Popularity": 95,
+    "Category": "Suits",
+    "Gender": "Male",
+    "Color": "Navy Blue"
+  },
+  {
+    "Id": 11,
+    "Photo": "https://example.com/fashion_item11.jpg",
+    "Name": "Women's Running Shoes",
+    "Price": 54.99,
+    "Rating": 4.5,
+    "Popularity": 92,
+    "Category": "Shoes",
+    "Gender": "Female",
+    "Color": "Pink"
+  },
+  {
+    "Id": 12,
+    "Photo": "https://example.com/fashion_item12.jpg",
+    "Name": "Men's Hooded Sweatshirt",
+    "Price": 29.99,
+    "Rating": 4.3,
+    "Popularity": 80,
+    "Category": "Sweatshirts",
+    "Gender": "Male",
+    "Color": "Gray"
+  },
+
+  {
+    "Id": 13,
+    "Photo": "https://example.com/fashion_item13.jpg",
+    "Name": "Women's Sun Hat",
+    "Price": 14.99,
+    "Rating": 4.2,
+    "Popularity": 75,
+    "Category": "Accessories",
+    "Gender": "Female",
+    "Color": "Beige"
+  },
+  {
+    "Id": 14,
+    "Photo": "https://example.com/fashion_item14.jpg",
+    "Name": "Men's Cargo Shorts",
+    "Price": 24.99,
+    "Rating": 4.4,
+    "Popularity": 82,
+    "Category": "Shorts",
+    "Gender": "Male",
+    "Color": "Khaki"
+  },
+  {
+    "Id": 15,
+    "Photo": "https://example.com/fashion_item15.jpg",
+    "Name": "Women's Casual Sneakers",
+    "Price": 39.99,
+    "Rating": 4.6,
+    "Popularity": 88,
+    "Category": "Shoes",
+    "Gender": "Female",
+    "Color": "White"
+  },
+  {
+    "Id": 16,
+    "Photo": "https://example.com/fashion_item16.jpg",
+    "Name": "Men's Slim Fit Dress Pants",
+    "Price": 49.99,
+    "Rating": 4.5,
+    "Popularity": 87,
+    "Category": "Pants",
+    "Gender": "Male",
+    "Color": "Navy Blue"
+  }
+]
