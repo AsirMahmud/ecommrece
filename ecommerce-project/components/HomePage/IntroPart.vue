@@ -36,7 +36,7 @@
         </div>
         <div class="lg:m-10 m-10">
           <NuxtLink
-            to="/AllProducts"
+            to="/AllProduct"
             class="btn bg-primary-content text-white rounded-xl"
           >
             Shop Now
