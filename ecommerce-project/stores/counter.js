@@ -21,7 +21,7 @@ export const useCounterStore = defineStore("counter", () => {
   };
 
   const filterCategory = ref("");
-  const filterPrice = ref("");
+  const filterPrice = ref("0");
 
   const shouldIfilter = ref(false);
 
