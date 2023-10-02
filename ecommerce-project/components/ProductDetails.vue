@@ -31,13 +31,11 @@ const productPusher = (i) => {
         <h1 class="mt-2">${{ data.price }}</h1>
         <button
           @click="productPusher(data)"
-          class="btn bg-primary-content text-white my-3"
+          class="btn bg-primary-content text-white my-3 mx-4"
         >
           Add to cart
         </button>
-        <P class="text-xs text-gray-500 md:text-lg w-[50vh]">{{
-          data.description
-        }}</P>
+        <P class="text-xs text-gray-500 md:text-lg">{{ data.description }}</P>
 
         <p class="md:text-xl">
           Category: <span class="text-bold">{{ data.category }}</span>

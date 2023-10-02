@@ -1,5 +1,5 @@
 <script setup></script>
 
 <template>
-  <ProductDetails></ProductDetails>
+  <ProductDetails class=""></ProductDetails>
 </template>
