@@ -12,9 +12,7 @@ const props = defineProps(["headLine", "cardData"]);
       <HomePageCard v-for="i in cardData" :imgData="i"></HomePageCard>
     </div>
     <div class="flex justify-center mb-2">
-      <NuxtLink
-        :to="headLine == 'New Arrival' ? '/newArrival' : '/TopSelling'"
-        class="btn btn-outline rounded-xl"
+      <NuxtLink to="/TopSelling" class="btn btn-outline rounded-xl"
         >View All</NuxtLink
       >
     </div>
