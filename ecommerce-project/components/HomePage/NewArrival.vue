@@ -1,6 +1,6 @@
 <script setup>
 const { data, pending, error } = await useFetch(
-  `https://fakestoreapi.com/products?limit=${windowChanger()}`
+  "https://fakestoreapi.com/products?limit=2"d
 );
 </script>
 
