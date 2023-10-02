@@ -1,7 +1,5 @@
 <script setup>
-import { useCounterStore } from "@/stores/counter";
-import { storeToRefs } from "pinia";
-const store = storeToRefs(useCounterStore());
+const refresher = () => {};
 </script>
 
 <template>
@@ -39,13 +37,13 @@ const store = storeToRefs(useCounterStore());
           </div>
         </div>
         <div class="lg:m-10 m-10">
-          <NuxtLink to="/newArrival">
-            <button
-              class="md:btn-md btn-lg bg-primary-content w-full md:text-xs lg:text-lg text-xs rounded-2xl text-white md:w-[210px]"
-            >
-              Shop Now
-            </button></NuxtLink
+          <NuxtLink
+            to="/newArrival"
+            @click="refreshNuxtData"
+            class="btn bg-primary-content text-white rounded-xl"
           >
+            Shop Now
+          </NuxtLink>
         </div>
       </div>
       <!-- Picturepart -->
