@@ -1,6 +1,4 @@
-<script setup>
-const refresher = () => {};
-</script>
+<script setup></script>
 
 <template>
   <div class="flex justify-center bg-neutral w-full lg:h-[663px]">
@@ -38,8 +36,7 @@ const refresher = () => {};
         </div>
         <div class="lg:m-10 m-10">
           <NuxtLink
-            to="/newArrival"
-            @click="refreshNuxtData"
+            to="/AllProducts"
             class="btn bg-primary-content text-white rounded-xl"
           >
             Shop Now
