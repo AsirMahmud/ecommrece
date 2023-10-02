@@ -20,7 +20,7 @@
         <NuxtLink to="/TopSelling">
           <p class="m-2 lg:text-xl md:text-sm">Top Selling</p></NuxtLink
         >
-        <NuxtLink to="/newArrival"
+        <NuxtLink to="/TopSelling"
           ><p class="m-2 lg:text-xl md:text-sm">New Arrival</p></NuxtLink
         >
         <NuxtLink to="/Categories">
@@ -63,7 +63,7 @@
             <NuxtLink to="/TopSelling">
               <p class="m-2">Top Selling</p></NuxtLink
             >
-            <NuxtLink to="/newArrival">
+            <NuxtLink to="/TopSelling">
               <p class="m-2">New Arrival</p></NuxtLink
             >
             <NuxtLink to="/categories" class="m-2">All categories</NuxtLink>
